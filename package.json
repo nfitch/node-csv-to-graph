@@ -1,0 +1,21 @@
+{
+    "name": "node-csv-to-graph",
+    "description": "Taking a csv and making a graph out of it.",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/nfitch/node-csv-to-graph.git"
+    },
+    "author": "Nate Fitch",
+    "dependencies": {
+        "big.js": "2.5.1",
+        "heap": "0.2.4",
+        "lstream": "0.0.4",
+        "optimist": "0.6.1"
+    },
+    "devDependencies": {
+    },
+    "engines": {
+        "node": ">=0.10.21"
+    }
+}
